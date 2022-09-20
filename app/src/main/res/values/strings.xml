@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLab3_converter</string>
+    <string name="enter_dollar_amount">Enter dollar amount</string>
+    <string name="convert">Convert</string>
+    <string name="euro_amount">Euro amount</string>
+    <string name="toast_message">Please enter dollar amount</string>
+    <string name="euro">\u0020Euro </string>
+</resources>
